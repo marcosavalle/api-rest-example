@@ -4,8 +4,8 @@
   "description": "Prueba Tecnica Naranja",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon —-use_strict index",
-    "start": "node —-use_strict index"
+    "dev": "nodemon —-use_strict  index",
+    "start": "node index"
   },
   "author": "Marcos Alejandro Vale",
   "license": "ISC",
