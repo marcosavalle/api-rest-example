@@ -1,7 +1,7 @@
 {
-  "name": "prueba-tecnica-naranja",
+  "name": "api-rest-example",
   "version": "1.0.0",
-  "description": "Prueba Tecnica Naranja",
+  "description": "API REST EXAMPLE",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon —-use_strict  index",
