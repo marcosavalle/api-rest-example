@@ -148,9 +148,6 @@ Devuelve en caso de no existir el usuario:
 }
 ```
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 Devuelve como respuesta en caso de éxito:
 
 ```javascript
